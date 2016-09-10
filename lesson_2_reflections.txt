@@ -12,3 +12,5 @@ What happens when you initialize a repository? Why do you need to do it?
  - you would easily be able to go back to the currently working branch and also merge later if you liked your change
  
  How do the diagrams help you visualize the branch structure?
+
+ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
