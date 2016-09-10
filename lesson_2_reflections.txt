@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+ - you go to the directory that you want the repository in and run git init. you can run get status to review 
