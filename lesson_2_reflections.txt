@@ -1,2 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
  - you go to the directory that you want the repository in and run git init. you can run get status to review 
+
+ How is the staging area different from the working directory and the repository? What value do you think it offers?
+ - lets you manage the changes that you commit 
+
+ How can you use the staging area to make sure you have one commit per logical change?
+ - you can see what files that you have staged and compare them to the most recent commit
